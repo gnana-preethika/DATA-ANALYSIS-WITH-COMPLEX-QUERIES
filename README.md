@@ -21,3 +21,5 @@ DOMAIN: SQL
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH KUMAR
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/554712f7-52d7-4d19-9d37-dee5ef2f4688)
